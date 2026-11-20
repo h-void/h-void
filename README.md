@@ -6,6 +6,10 @@
 
 > I write browser-native systems code from mathematical first principles—exposing the poetic materiality of reaction-diffusion morphogenesis, spectral optical caustics, Hong Kong bilingual typography, and pre-demosaic silicon sensor physics with **zero photography, zero recorded video, and zero external media assets**.
 
+<p align="center">
+  <img src="./assets/previews/profile-quartet.jpg" alt="Perceptual Computation Quartet — MORPHOS, CAUSTIC COLLIMATION, POLYGLOT DRIFT, and COLLIMA" width="100%" />
+</p>
+
 ---
 
 ## Featured Works · *Perceptual Computation* Quartet
